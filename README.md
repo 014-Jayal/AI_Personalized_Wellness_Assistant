@@ -1,4 +1,4 @@
-````markdown
+
 # 🌿 AI-Powered Personalized Wellness Assistant
 
 An end-to-end, full-stack artificial intelligence platform designed to provide dermatological assessments, explainable AI visualizations, and personalized wellness protocols. The system integrates a custom-trained PyTorch CNN with Google's Gemini LLM to deliver actionable healthcare insights, secure patient authentication, and recovery tracking.
@@ -270,4 +270,3 @@ GitHub: https://github.com/027sakshi
 This project is developed for educational and academic purposes.
 
 ---
-````
